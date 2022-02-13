@@ -9,6 +9,7 @@ public class Test : MonoBehaviour
     {
         Debug.Log("Hello");
         Debug.Log("bungus wungus");
+        Debug.Log("HASHASJAIJSOI:AJSUASJLAIUJSAISHISUHASIJSIOASui");
     }
 
     // Update is called once per frame
